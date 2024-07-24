@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: da9a52c0-ae57-462b-91fd-63f8d354b9a4
-  WEBAPP-NAME: eshoponweb-webapp-Aryan
+  WEBAPP-NAME: eshoponweb-webapp-TheStarkFan
 
 
 jobs:
